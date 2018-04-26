@@ -1,6 +1,14 @@
 #include <stdio.h>
 
+/*
+* @wi DELNG-3 function from git
+*/
+int foo(int a, int b) {
+	return a + b;
+}
+
+
 void main() {
-	int a = 0;
+	iint a = 0;
 	printf("Hello world");
 }
